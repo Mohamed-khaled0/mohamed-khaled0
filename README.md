@@ -90,8 +90,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Clima-Weather-App&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Mohamed-khaled0/Flash-ChatApp/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Flash-ChatApp&theme=tokyonight" />
+<a href="https://github.com/Mohamed-khaled0/MBI-Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=MBI-Calculator&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Mohamed-khaled0/FoodFinder">
