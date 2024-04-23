@@ -46,15 +46,6 @@
 - Excellent understanding of OOP, Architecture Design Patterns, and Solid Principles.
 - Experience in releasing Android applications.
 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> IOS Native Skills</b>
-- 📱 Design, develop, and maintain native iOS applications using UIKit, Storyboard, and Auto Layout. Familiar with SwiftUI.
-- 🔍 Core Location for location features
-- 🌐 Networking: Working with URLSession for web requests
-- 💾 Cloud Data: Using Firebase and Firestore for cloud-based data storage
-- 💾 Local Data: Managing data locally with CoreData, and UserDefaults
-- 📦 Dependencies: Handling external libraries with CocoaPods and Swift Package Manager
-
  <!-- ======= End About Section ======= -->
 
  <!-- ======= Github Stats Section ======= -->
