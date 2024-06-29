@@ -7,21 +7,20 @@
     </div>
  
 <p align="center">
-  <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++Mobile+Developer+Intern+@+CodeAlpha;Mobile+Software+Engineer"></a>
+  <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++Mobile+Developer+Intern+@+CodeAlpha;+Software+Engineer"></a>
 </p>
 
 <!-- ======= About Section ======= -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" </picture>
 
-• 🚀 Passionate, fast learner mobile app developer with experience in building multiple applications.
+• 🚀 Passionate, fast learner web developer.
 
 • 🌟 Improved skills during internships at respected companies like CodeAlpha and The Sparks Foundation.
 
-• 🔍 Currently seeking a mobile app development internship at a dynamic software solutions company to apply technical, communication, and problem-solving skills.
+• 🔍 I am currently seeking an internship at a dynamic software solutions company to apply my technical, communication, and problem-solving skills.
 
-•    My goal is to grow into a senior developer who can lead and mentor other mobile developers.
-
+• My goal is to grow into a senior developer who can lead and mentor other mobile developers.
 
 
 ### 📋 Responsibilities 
