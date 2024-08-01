@@ -16,11 +16,9 @@
 
 • 🚀 Passionate, fast learner web developer.
 
-• 🌟 Improved skills during internships at respected companies like CodeAlpha and The Sparks Foundation.
+• 🌟 Improved skills during internships at respected companies like Information Technology Institute (ITI) , CodeAlpha and The Sparks Foundation .
 
-• 🔍 I am currently seeking an internship at a dynamic software solutions company to apply my technical, communication, and problem-solving skills.
-
-• My goal is to grow into a senior developer who can lead and mentor other mobile developers.
+• My goal is to grow into a senior developer who can lead and mentor other software developers.
 
 
 ### 📋 Responsibilities 
