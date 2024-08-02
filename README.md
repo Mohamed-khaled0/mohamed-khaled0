@@ -34,14 +34,15 @@
 🎓 A quick learner who can adapt quickly to any changes and work with different people.
 
 📚 Continuously developing my personal and technical skills and leveraging the experiences of others.
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Flutter Skills</b>
-- Experience in developing mobile applications using Flutter framework.
-- Excellent understanding of the full mobile development life cycle.
-- Networking & Data Persistent: Proficiency in Restful API’s, Dio, HTTP, Hive, Firebase.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Web Skills</b>
+- Experience in core PHP programming.
+- Experience in HTML5, CSS3, and JavaScript.
+- Familiar with frameworks such as Laravel
+- Knowledge of front-end and back-end development processes.
 - Experience in Git and GitHub for version control and collaboration.
-- Experience with Bloc for state management.
+- Strong understanding of database design, SQL queries
+- Experience with database management systems like MySQL
 - Excellent understanding of OOP, Architecture Design Patterns, and Solid Principles.
-- Experience in releasing Android applications.
 
  <!-- ======= End About Section ======= -->
 
