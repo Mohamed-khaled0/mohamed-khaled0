@@ -44,6 +44,16 @@
 - Experience with database management systems like MySQL
 - Excellent understanding of OOP, Architecture Design Patterns, and Solid Principles.
 
+
+#### Deutsch Sprache 
+- Erfahrung in der Core-PHP-Programmierung.
+- Erfahrung in HTML5, CSS3 und JavaScript.
+- Vertrautheit mit Frameworks wie Laravel.
+- Kenntnisse der Frontend- und Backend-Entwicklungsprozesse.
+- Erfahrung in Git und GitHub für Versionskontrolle und Zusammenarbeit.
+- Starkes Verständnis von Datenbankdesign und SQL-Abfragen.
+- Erfahrung mit Datenbankverwaltungssystemen wie MySQL.
+- Hervorragendes Verständnis von OOP, Architekturdesignmustern und SOLID-Prinzipien.
  <!-- ======= End About Section ======= -->
 
  <!-- ======= Github Stats Section ======= -->
