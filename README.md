@@ -11,7 +11,7 @@
 </p>
 
 <!-- ======= About Section ======= -->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px></picture> **About me**
 <picture> <img align="right" </picture>
 
 • 🚀 Passionate, fast learner web developer.
