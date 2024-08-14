@@ -57,7 +57,10 @@
  <!-- ======= End About Section ======= -->
 
  <!-- ======= Github Stats Section ======= -->
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
