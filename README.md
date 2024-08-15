@@ -60,11 +60,10 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-khaled0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Mohamed-khaled0"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-khaled0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475"  alt="Mohamed-khaled0"/>
 </a>
 </div>
 
