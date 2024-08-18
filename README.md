@@ -11,7 +11,8 @@
 </p>
 
 <!-- ======= About Section ======= -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px></picture> **About me**
+
+## <img src="/images/Developer.gif" alt="developer gif" width = 30px></picture> **About me**
 <picture> <img align="right" </picture>
 
 • 🚀 Passionate, fast learner web developer.
@@ -74,7 +75,7 @@
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=mysql,html,css,js,git,vscode,postman,&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=mysql,html,css,js,git,vscode,php,laravel,postman,&perline=10"  />
 </p>
  <!-- ======= End Languages and Tools Section ======= -->
 
