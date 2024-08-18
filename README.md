@@ -12,8 +12,7 @@
 
 <!-- ======= About Section ======= -->
 
-## <img src="/images/Developer.gif" alt="developer gif" width = 30px></picture> **About me**
-<picture> <img align="right" </picture>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">About Me :
 
 • 🚀 Passionate, fast learner web developer.
 
@@ -22,20 +21,7 @@
 • My goal is to grow into a senior developer who can lead and mentor other software developers.
 
 
-### 📋 Responsibilities 
----
-📱 Design, develop, and maintain applications.
-
-💡 Take initiative by suggesting new technologies, ideas, and approaches.
-
-🤝 Collaborate with colleagues in a fluid, cross-functional team environment.
-
-🐛 Identify and correct bottlenecks and fix bugs.
-
-🎓 A quick learner who can adapt quickly to any changes and work with different people.
-
-📚 Continuously developing my personal and technical skills and leveraging the experiences of others.
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Web Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Web Skills</b>
 - Experience in core PHP programming.
 - Experience in HTML5, CSS3, and JavaScript.
 - Familiar with frameworks such as Laravel
