@@ -63,11 +63,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-khaled0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="475"  alt="Mohamed-khaled0"/>
-</a>
-</div>
+<a href="https://github.com/Mohamed-khaled0">
+      <img width=450  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-khaled0&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+ </a>
 
  <!-- ======= End Github Stats Section ======= -->
+
+
+ <!-- ======= Languages and Tools Section ======= -->
+
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="600px"  src="https://skillicons.dev/icons?i=mysql,html,css,js,git,vscode,postman,&perline=10"  />
+</p>
+ <!-- ======= End Languages and Tools Section ======= -->
+
+
 <br>
  <!-- ======= Connect Section ======= -->
  
