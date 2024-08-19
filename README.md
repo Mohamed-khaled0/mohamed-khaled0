@@ -14,11 +14,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">About Me :
 
-• 🚀 Passionate, fast learner web developer.
-
-• 🌟 Improved skills during internships at respected companies like Information Technology Institute (ITI) , CodeAlpha and The Sparks Foundation .
-
-• My goal is to grow into a senior developer who can lead and mentor other software developers.
+- Passionate, fast learner web developer.
+- Improved skills during internships at  Information Technology Institute (ITI) , CodeAlpha and The Sparks Foundation .
+- My goal is to grow into a senior developer who can lead and mentor other software developers.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Web Skills</b>
@@ -71,39 +69,11 @@
  
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="https://github.com/Mohamed-khaled0"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/mohamed-khaled3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-        <a href="mohamedalshraby3@gmail.com">   <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
-
- <!-- ======= End Connect Section ======= -->
-
+	<a href="https://github.com/Mohamed-khaled0"><img src="https://img.icons8.com/bubbles/75/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/mohamed-khaled3/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
+        <a href="mohamedalshraby3@gmail.com">   <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/bubbles/75/000000/gmail.png"/></a>
 </p>
- <!-- ======= Repository Overview Section ======= -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
-<a href="https://github.com/Mohamed-khaled0/E-Commerce-IOS-CodeAlpha-Internship">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=E-Commerce-IOS-CodeAlpha-Internship&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Mohamed-khaled0/Clima-Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Clima-Weather-App&theme=tokyonight" />
-</a>
-
-
-
-
-<a href="https://github.com/Mohamed-khaled0/Easy-Notes-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-khaled0&repo=Easy-Notes-App&theme=tokyonight" />
-</a>
-
-
-
- <!-- ======= End Repository Overview Section ======= -->
----
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ <!-- ======= End Connect Section ======= -->
 
 
 <h3 align="center">
