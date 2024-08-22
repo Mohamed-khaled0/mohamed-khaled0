@@ -44,7 +44,7 @@
 
 <div align="center">
     <a href="https://github.com/Mohamed-khaled0">
-        <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-khaled0&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-khaled0&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
     </a>
 </div>
 
@@ -54,7 +54,7 @@
 
 <h2 align="center">Languages and Tools</h2> 
 <p align="center">
-    <img width="600px" src="https://skillicons.dev/icons?i=mysql,html,css,js,git,vscode,php,laravel,react,postman,&perline=9" />
+    <img width="370px" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,php,laravel,mysql,postman,git,vscode,&perline=6" />
 </p>
 
 <!-- ======= End Languages and Tools Section ======= -->
