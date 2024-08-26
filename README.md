@@ -54,7 +54,7 @@
 
 <h2 align="center">Languages and Tools</h2> 
 <p align="center">
-    <img width="370px" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,php,laravel,mysql,postman,git,vscode,&perline=6" />
+    <img width="370px" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,php,laravel,mysql,postman,git,vscode,&perline=6" />
 </p>
 
 <!-- ======= End Languages and Tools Section ======= -->
