@@ -24,13 +24,13 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Web Skills</b>
 
-- Experience in core PHP programming.
 - Experience in HTML5, CSS3, and JavaScript.
-- Familiar with frameworks such as Laravel.
-- Knowledge of front-end and back-end development processes.
+- Familiar with frameworks such as React .
 - Experience in Git and GitHub for version control and collaboration.
 - Strong understanding of database design, SQL queries, and MySQL.
 - Excellent understanding of OOP, Architecture Design Patterns, and SOLID Principles.
+- Experience in core PHP programming.
+- Knowledge of front-end and back-end development processes.
 
 <!-- ======= End Web Skills Section ======= -->
 
@@ -54,7 +54,7 @@
 
 <h2 align="center">Languages and Tools</h2> 
 <p align="center">
-    <img width="370px" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,jquery,react,php,laravel,mysql,postman,git,vscode,&perline=6" />
+    <img width="370px" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,php,laravel,mysql,postman,git,vscode,&perline=6" />
 </p>
 
 <!-- ======= End Languages and Tools Section ======= -->
