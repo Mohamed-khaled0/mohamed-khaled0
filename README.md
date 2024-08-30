@@ -44,7 +44,7 @@
 
 <div align="center">
     <a href="https://github.com/Mohamed-khaled0">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-khaled0&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-khaled0&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
     </a>
 </div>
 
