@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+PHP+Developer+Intern+@+ITI;Software+Engineer"></a>
+    <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+Intern+@+ITI;Software+Engineer"></a>
 </p>
 
 <!-- ======= About Section ======= -->
@@ -15,7 +15,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me:
 
 - Passionate, fast learner web developer.
-- Improved skills during internships at Information Technology Institute (ITI), CodeAlpha, and The Sparks Foundation.
+- Improved my skills during internships at Information Technology Institute (ITI), CodeAlpha, and The Sparks Foundation.
 - My goal is to grow into a senior developer who can lead and mentor other software developers.
 
 <!-- ======= End About Section ======= -->
@@ -29,7 +29,6 @@
 - Experience in Git and GitHub for version control and collaboration.
 - Strong understanding of database design, SQL queries, and MySQL.
 - Excellent understanding of OOP, Architecture Design Patterns, and SOLID Principles.
-- Experience in core PHP programming.
 - Knowledge of front-end and back-end development processes.
 
 <!-- ======= End Web Skills Section ======= -->
