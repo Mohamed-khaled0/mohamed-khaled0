@@ -53,7 +53,7 @@
 
 <h2 align="center">Languages and Tools</h2> 
 <p align="center">
-    <img width="370px" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,next,mysql,postman,git,vscode,&perline=6" />
+    <img width="370px" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,vite,next,mysql,postman,git,vscode,&perline=6" />
 </p>
 
 <!-- ======= End Languages and Tools Section ======= -->
