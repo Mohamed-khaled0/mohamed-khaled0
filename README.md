@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" />
 </div>
 
 <div align="center">
@@ -7,35 +7,35 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/Mohamed-khaled0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+Intern+@+ITI;Software+Engineer"></a>
+    <a href="https://github.com/Mohamed-khaled0/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+Intern+@+ITI;Software+Engineer" alt="Web Developer Intern" />
+    </a>
 </p>
 
 <!-- ======= About Section ======= -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="About Me"> About Me:
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me:
-
-- Passionate, fast learner web developer.
-- Improved my skills during internships at Information Technology Institute (ITI), CodeAlpha, and The Sparks Foundation.
-- My goal is to grow into a senior developer who can lead and mentor other software developers.
-
+- 🌱 **Software engineer** mainly focused on **Web Development**
+- 💻 I have a passion for building **interactive web applications**
+- 🛠️ My day consists of working on projects with **HTML, CSS, Tailwind, JavaScript, TypeScript**, and **React.js**
+- 💼 Improved my skills during internships at the **Information Technology Institute (ITI)**, **CodeAlpha**, and **The Sparks Foundation**
+- 🎯 My goal is to grow into a **senior developer** who can lead and mentor other software developers
 <!-- ======= End About Section ======= -->
 
 <!-- ======= Web Skills Section ======= -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" alt="Web Skills"> <b> Web Skills</b>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"><b> Web Skills</b>
-
-- Experience in HTML5, CSS3, and JavaScript.
-- Familiar with frameworks such as React .
-- Experience in Git and GitHub for version control and collaboration.
-- Strong understanding of database design, SQL queries, and MySQL.
-- Excellent understanding of OOP, Architecture Design Patterns, and SOLID Principles.
-- Knowledge of front-end and back-end development processes.
+- ✔️ Experience in HTML5, CSS3, and JavaScript.
+- ✔️ Familiar with frameworks such as React.
+- ✔️ Proficient in Git and GitHub for version control and collaboration.
+- ✔️ Strong understanding of database design, SQL queries, and MySQL.
+- ✔️ Excellent grasp of OOP, Architecture Design Patterns, and SOLID Principles.
+- ✔️ Knowledge of front-end and back-end development processes.
 
 <!-- ======= End Web Skills Section ======= -->
 
 <!-- ======= Github Stats Section ======= -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="GitHub Stats"> <b> GitHub Stats </b>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Mohamed-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -50,26 +50,33 @@
 <!-- ======= End Github Stats Section ======= -->
 
 <!-- ======= Languages and Tools Section ======= -->
-
-<h2 align="center">Languages and Tools</h2> 
+<h2 align="center">🔧 Languages and Tools</h2> 
 <p align="center">
-    <img width="370px" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,vite,materialui,next,mysql,postman,git,vscode,&perline=6" />
+    <img width="350px" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,vite,materialui,next,mysql,postman,git,vscode&perline=6" alt="Languages and Tools" />
 </p>
 
 <!-- ======= End Languages and Tools Section ======= -->
 
 <!-- ======= Connect Section ======= -->
-
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://linkedin.com/in/mohamed-khaled3/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn" /></a>
-    <a href="mailto:mohamedalshraby3@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail" /></a>
-    <a href="https://www.youtube.com/@mohamedalshraby3"><img src="https://img.icons8.com/bubbles/75/000000/youtube.png" alt="YouTube" /></a>
+    <a href="https://linkedin.com/in/mohamed-khaled3/">
+        <img width="50px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mohamedalshraby3@gmail.com">
+        <img width="50px" src="https://img.icons8.com/ios-filled/50/ea4335/gmail.png" alt="Gmail" />
+    </a>
+    <a href="https://www.youtube.com/@mohamedalshraby3">
+        <img width="50px" src="https://img.icons8.com/ios-filled/50/ff0000/youtube-play.png" alt="YouTube" />
+    </a>
+    <a href="https://mohamed-khaled-portfilio.netlify.app/">
+        <img width="50px" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" />
+    </a>
 </p>
 
 <!-- ======= End Connect Section ======= -->
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" alt="Thanks for visiting" />
 </h3>
