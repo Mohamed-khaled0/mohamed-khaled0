@@ -8,30 +8,31 @@
 
 <p align="center">
     <a href="https://github.com/Mohamed-khaled0/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+Intern+@+ITI;Software+Engineer" alt="Web Developer Intern" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Flutter+Developer;Software+Engineer" alt="Flutter Developer" />
     </a>
 </p>
 
 <!-- ======= About Section ======= -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="About Me"> About Me:
 
-- 🌱 **Software engineer** mainly focused on **Web Development**
-- 💻 I have a passion for building **interactive web applications**
-- 🛠️ My day consists of working on projects with **HTML, CSS, Tailwind, JavaScript, TypeScript**, and **React.js**
-- 💼 Improved my skills during internships at the **Information Technology Institute (ITI)**, **CodeAlpha**, and **The Sparks Foundation**
-- 🎯 My goal is to grow into a **senior developer** who can lead and mentor other software developers
-<!-- ======= End About Section ======= -->
+- 🌱 **Flutter developer** with hands-on experience from my internships at **ITI** and **CodeAlpha**.
+- 💻 Passionate about building **interactive mobile applications** using Flutter.
+- 🛠️ Specialized in **Dart, MVVM**, and **Bloc/Cubit**, delivering responsive, user-friendly apps with clean, maintainable code.
 
-<!-- ======= Web Skills Section ======= -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" alt="Web Skills"> <b> Web Skills</b>
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Flutter Skills"> <b> Flutter Skills </b>
 
-- ✔️ Experience in HTML5, CSS3, and JavaScript.
-- ✔️ Familiar with frameworks such as React.
-- ✔️ Proficient in Git and GitHub for version control and collaboration.
-- ✔️ Strong understanding of database design, SQL queries, and MySQL.
-- ✔️ Excellent grasp of OOP, Architecture Design Patterns, and SOLID Principles.
+- ✔️ Proficient in **Dart** and **Flutter** for mobile app development.
+- ✔️ Experience in building **responsive UIs** and integrating APIs.
+- ✔️ Knowledgeable in releasing apps on **Google Play**.
+- ✔️ Strong understanding of **OOP**, **Architecture Design Patterns**, and **SOLID Principles**.
+- ✔️ Proficient in **Git** and **GitHub** for version control.
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" alt="Web Skills"> <b> Web Skills </b>
+
+- ✔️ Experience in **HTML5, CSS3**, and **JavaScript**.
+- ✔️ Familiar with frameworks such as **React**.
+- ✔️ Strong understanding of database design, **SQL queries**, and **MySQL**.
 - ✔️ Knowledge of front-end and back-end development processes.
-
 <!-- ======= End Web Skills Section ======= -->
 
 <!-- ======= Github Stats Section ======= -->
@@ -52,7 +53,7 @@
 <!-- ======= Languages and Tools Section ======= -->
 <h2 align="center">🔧 Languages and Tools</h2> 
 <p align="center">
-    <img width="350px" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,vite,materialui,next,mysql,postman,git,vscode&perline=6" alt="Languages and Tools" />
+    <img width="280px" src="https://skillicons.dev/icons?i=flutter,dart,html,css,tailwind,js,ts,react,mysql,postman,git&perline=4" alt="Languages and Tools" />
 </p>
 
 <!-- ======= End Languages and Tools Section ======= -->
@@ -70,7 +71,7 @@
     <a href="https://www.youtube.com/@mohamedalshraby3">
         <img width="50px" src="https://img.icons8.com/ios-filled/50/ff0000/youtube-play.png" alt="YouTube" />
     </a>
-    <a href="https://mohamed-khaled-portfilio.netlify.app/">
+    <a href="https://mohamed-khaled-frontend-developer.netlify.app/">
         <img width="50px" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" />
     </a>
 </p>
