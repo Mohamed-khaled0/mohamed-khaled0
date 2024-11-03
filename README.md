@@ -53,7 +53,7 @@
 <!-- ======= Languages and Tools Section ======= -->
 <h2 align="center">🔧 Languages and Tools</h2> 
 <p align="center">
-    <img width="280px" src="https://skillicons.dev/icons?i=flutter,dart,html,css,tailwind,js,ts,react,mysql,postman,git&perline=4" alt="Languages and Tools" />
+    <img width="280px" src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,tailwind,js,ts,react,mysql,postman,git&perline=4" alt="Languages and Tools" />
 </p>
 
 <!-- ======= End Languages and Tools Section ======= -->
