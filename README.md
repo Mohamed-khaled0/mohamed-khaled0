@@ -71,7 +71,7 @@
     <a href="https://www.youtube.com/@mohamedalshraby3">
         <img width="50px" src="https://img.icons8.com/ios-filled/50/ff0000/youtube-play.png" alt="YouTube" />
     </a>
-    <a href="https://mohamed-khaled-frontend-developer.netlify.app/">
+    <a href="https://mohamed-khaled-software-engineer.netlify.app/">
         <img width="50px" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" />
     </a>
 </p>
