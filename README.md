@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mohamed-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <div id="header" align="center">
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" />
 </div>
@@ -35,7 +38,7 @@
 - ✔️ Knowledge of front-end and back-end development processes.
 <!-- ======= End Web Skills Section ======= -->
 
-<!-- ======= Github Stats Section ======= -->
+<!-- ======= Github Stats Section ======= 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="GitHub Stats"> <b> GitHub Stats </b>
 
 <p align="center">
