@@ -26,7 +26,7 @@
 
 - ✔️ Proficient in **Dart** and **Flutter** for mobile app development.
 - ✔️ Experience in building **responsive UIs** and integrating APIs.
-- ✔️ Knowledgeable in releasing apps on **Google Play**.
+- ✔️ Knowledgeable in releasing apps on  **[Google Play](https://play.google.com/store/apps/details?id=com.omran.kartak)**.
 - ✔️ Strong understanding of **OOP**, **Architecture Design Patterns**, and **SOLID Principles**.
 - ✔️ Proficient in **Git** and **GitHub** for version control.
 
