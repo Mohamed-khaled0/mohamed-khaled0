@@ -46,7 +46,7 @@
 ## 🔧 Languages & Tools
 
 <p align="center">
-    <img width="280px" src="https://skillicons.dev/icons?i=java,postman,selenium,git,mysql,html,css,js,react&perline=4" alt="Languages and Tools" />
+    <img width="280px" src="https://skillicons.dev/icons?i=java,postman,selenium,git,mysql,html,css,js&perline=4" alt="Languages and Tools" />
 </p>
 
 
