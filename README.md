@@ -20,38 +20,49 @@
 
 ## 🌟 About Me
 
-- 📊 **Data Analyst** with a strong background in Computer Science and a passion for uncovering insights from data.  
-- 📈 Skilled in data cleaning, exploration, and visualization using Python (Pandas, NumPy, Matplotlib).  
-- 🛢️ Experienced in SQL for querying and managing databases.  
-- 📊 Experienced in BI tools like **Tableau** and **Excel** (Pivot Tables, VLOOKUP, Conditional Formatting).  
-- 🎯 Always seeking to turn raw data into impactful decisions.  
+- **Data Analyst** with a Computer Science background and hands-on experience turning raw data into actionable insights.
+- Proficient in **data wrangling**, **exploratory analysis**, and **statistical techniques** using Python (Pandas, NumPy, Matplotlib).
+- Strong command of **SQL** for data extraction, transformation, and reporting (MS SQL Server).
+- Developed multiple dashboards and automated reports using **Excel** and **Power BI**.
+- Passionate about using data to improve processes, support decisions, and tell compelling data stories.
+
+---
 
 ## 🛠️ Skills & Expertise
 
 ### 📊 **Data Analysis & BI Tools**
-- ✔️ **Python**: Pandas, NumPy, Matplotlib for data wrangling and visualization.  
-- ✔️ **MS Excel**: Advanced skills in Pivot Tables, VLOOKUP, Conditional Formatting.  
-- ✔️ **Tableau**: Building interactive dashboards and reports.  
-- ✔️ **SQL**: Writing complex queries, joins, aggregations on **MS SQL Server**.  
-- ✔️ **Data Cleaning & Preparation**: Handling missing values, formatting, and transformation.  
-- ✔️ Strong understanding of **data visualization principles** and **reporting techniques**.  
-- ✔️ Languages: Arabic (Native), English (Very Good), German (B1).  
-
+- ✔️ **Python**: Data cleaning, transformation, EDA, and visualization using Pandas, NumPy, and Matplotlib.
+- ✔️ **SQL**: Writing optimized queries, joins, subqueries, aggregations (MS SQL Server, MySQL).
+- ✔️ **Excel**: Pivot Tables, VLOOKUP, conditional formatting, charting, KPI dashboards.
+- ✔️ **Power BI** *(optional to add)*: For live dashboards and business reporting.
+- ✔️ Data preprocessing: Missing values handling, formatting, data type correction, normalization.
+- ✔️ Strong grasp of **data visualization principles** and **business metrics**.
 
 ---
 
 ## 🎓 Education
 
 **Thebes Academy** – Egypt  
-**Bachelor of Computer Science** | *2021 – 2025*
+**Bachelor of Computer Science** | *2021 – 2025*  
+📚 **Cumulative GPA**: `3.17` (Grade: **B**)  
+🎓 **Graduation Project GPA**: `4.0` (Grade: **A+**)
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 🥇 **HackerRank – SQL Gold Badge**  
-- 📚 Continuously learning and expanding data skills through hands-on projects.
+- 🥇 **SQL Gold Badge** – HackerRank  
+- 🎓 **Google Data Analytics Professional Certificate** *(in progress)*  
+- 📚 Constantly building real-world data projects to deepen my skills
 
+---
+
+## 🌐 Languages
+- 🇪🇬 **Arabic**: Native  
+- 🇺🇸 **English**: Very Good  
+- 🇩🇪 **German**: A2
+
+---
 
 ## 🤝 Connect with Me
 
@@ -66,8 +77,6 @@
         <img width="60px" src="https://img.icons8.com/ios-filled/50/ff0000/youtube-play.png" alt="YouTube" />
     </a>
 </p>
-
-
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" alt="Thanks for visiting" />
