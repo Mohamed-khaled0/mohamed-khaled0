@@ -34,7 +34,7 @@
 - ✔️ **Python**: Data cleaning, transformation, EDA, and visualization using Pandas, NumPy, and Matplotlib.
 - ✔️ **SQL**: Writing optimized queries, joins, subqueries, aggregations (MS SQL Server, MySQL).
 - ✔️ **Excel**: Pivot Tables, VLOOKUP, conditional formatting, charting, KPI dashboards.
-- ✔️ **Power BI** *(optional to add)*: For live dashboards and business reporting.
+- ✔️ **Power BI**: For live dashboards and business reporting.
 - ✔️ Data preprocessing: Missing values handling, formatting, data type correction, normalization.
 - ✔️ Strong grasp of **data visualization principles** and **business metrics**.
 
