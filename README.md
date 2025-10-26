@@ -60,7 +60,7 @@
 ## 🌐 Languages
 - 🇪🇬 **Arabic**: Native  
 - 🇺🇸 **English**: Very Good  
-- 🇩🇪 **German**: A2
+- 🇩🇪 **German**: B1
 
 ---
 
