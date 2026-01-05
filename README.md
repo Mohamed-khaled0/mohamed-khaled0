@@ -22,47 +22,23 @@ I design data ingestion systems, transform and model datasets for analytics, and
 - Data modeling for analytics
 - Orchestration, monitoring, and cost-efficient storage
 
-
 ## 🛠️ Skills
 
-### **Data Engineering**
-- ETL / ELT pipeline design
-- Data modeling (Star & Snowflake)
-- Analytics-ready schemas
-
-### **SQL & Warehousing**
-- MySQL
-- Amazon Redshift
-- Amazon Athena
-- Query optimization
-
-### **Python for Data**
-- pandas
-- multiprocessing
-- ETL scripting
-
-### **Orchestration & Streaming**
-- Airflow / Prefect (concept & practice)
-- Kafka / Kinesis / SQS (fundamentals)
-
-### **Cloud Data (AWS)**
-- S3, Glue, Lambda
-- Athena, Redshift
-- IAM, CloudWatch
-
-### **Big Data**
-- Spark / PySpark (foundations)
-
-### **Infra & DevOps for Data**
-- Docker
-- Linux
-- Git & GitHub
-- Terraform (IaC)
-
-### **Observability & Quality**
-- Logging & metrics
-- Data quality concepts (Great Expectations)
-- Cost optimization strategies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="35"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="130"/>
 
 
 
